@@ -1,0 +1,19 @@
+Could not find safe_yaml-0.9.2 in any of the sources
+    ERROR: Failed to build gem native extension
+    An error occurred while installing debugger
+    uninitialized constant
+    remote: Repository not found
+    ERROR: Repository not found
+    Permission denied (publickey)
+    E: Unable to lock the administration directory (/var/lib/dpkg/), are you root?
+    pg_dump: aborting because of server version mismatch
+    /home/rof/.rvm/rubies/ruby-1.9.3-p448/lib/ruby/1.9.1/psych.rb:297:in `initialize': No such file or directory - /home/rof/src/github.com/threatsim/threatsim-workers/sidekiq/config/database.yml (Errno::ENOENT)
+    PG::UndefinedTable: ERROR:  relation "venues" does not exist
+    You need to have Ruby and Compass installed and in your system PATH for this task to work
+    No source for ruby-2.0.0-p451 provided with debugger-ruby_core_source gem
+    Could not locate Gemfile
+    503 Service Unavailable
+    grunt: command not found
+    fatal: unable to auto-detect email address
+    fatal: empty ident name
+    You may have encountered a bug in the Ruby interpreter or extension libraries
